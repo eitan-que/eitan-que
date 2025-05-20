@@ -36,15 +36,3 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
----
-
-### 📬 Contacto
-
-- 🐙 GitHub: [@eitan-que](https://github.com/eitan-que)
-- 📸 Instagram: [@eitanfeld____](https://instagram.com/eitanfeld____)
-<!-- - 💼 LinkedIn: _[Tu perfil acá]_ <!-- poné el link real cuando lo tengas -->
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
