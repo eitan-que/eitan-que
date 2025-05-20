@@ -39,15 +39,6 @@
 
 ---
 
-### 📌 Repositorios destacados
-
-Aquí algunos proyectos que tengo pineados en mi perfil. ¡Pasá a verlos! 👇  
-
-- 🔗 [**Pedilo**](https://github.com/3-TIC-ORT/proyecto-3-pedilo)
-- 🔗 [**OpenForum**](https://github.com/mercho40/openforum)
-
----
-
 ### 📬 Contacto
 
 - 🐙 GitHub: [@eitan-que](https://github.com/eitan-que)
