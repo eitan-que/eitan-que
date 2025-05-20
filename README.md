@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eitan-que&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 🚀 Tecnologías que uso
 
 #### 🧑‍💻 Frontend
